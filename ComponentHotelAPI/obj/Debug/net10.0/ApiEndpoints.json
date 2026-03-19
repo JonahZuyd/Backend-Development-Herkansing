@@ -1,0 +1,418 @@
+[
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.GastController",
+    "Method": "GetAll",
+    "RelativePath": "api/Gast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.GastController",
+    "Method": "Create",
+    "RelativePath": "api/Gast",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "gast",
+        "Type": "ComponentHotelCL.Gast",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.GastController",
+    "Method": "GetById",
+    "RelativePath": "api/Gast/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.GastController",
+    "Method": "Update",
+    "RelativePath": "api/Gast/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "gast",
+        "Type": "ComponentHotelCL.Gast",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.GastController",
+    "Method": "Delete",
+    "RelativePath": "api/Gast/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.GebruikerController",
+    "Method": "GetAll",
+    "RelativePath": "api/Gebruiker",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.GebruikerController",
+    "Method": "Create",
+    "RelativePath": "api/Gebruiker",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ComponentHotelCL.CreateUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.GebruikerController",
+    "Method": "GetById",
+    "RelativePath": "api/Gebruiker/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.GebruikerController",
+    "Method": "Update",
+    "RelativePath": "api/Gebruiker/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "gebruiker",
+        "Type": "ComponentHotelCL.Gebruiker",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.GebruikerController",
+    "Method": "Delete",
+    "RelativePath": "api/Gebruiker/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.HotelkamerController",
+    "Method": "GetAll",
+    "RelativePath": "api/Hotelkamer",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.HotelkamerController",
+    "Method": "Create",
+    "RelativePath": "api/Hotelkamer",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "hotelkamer",
+        "Type": "ComponentHotelCL.Hotelkamer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.HotelkamerController",
+    "Method": "GetById",
+    "RelativePath": "api/Hotelkamer/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.HotelkamerController",
+    "Method": "Update",
+    "RelativePath": "api/Hotelkamer/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "hotelkamer",
+        "Type": "ComponentHotelCL.Hotelkamer",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.HotelkamerController",
+    "Method": "Delete",
+    "RelativePath": "api/Hotelkamer/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.ReserveringController",
+    "Method": "GetAll",
+    "RelativePath": "api/Reservering",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.ReserveringController",
+    "Method": "Create",
+    "RelativePath": "api/Reservering",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "reservering",
+        "Type": "ComponentHotelCL.Reservering",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.ReserveringController",
+    "Method": "GetById",
+    "RelativePath": "api/Reservering/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.ReserveringController",
+    "Method": "Update",
+    "RelativePath": "api/Reservering/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "reservering",
+        "Type": "ComponentHotelCL.Reservering",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.ReserveringController",
+    "Method": "Delete",
+    "RelativePath": "api/Reservering/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.TariefController",
+    "Method": "GetAll",
+    "RelativePath": "api/Tarief",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.TariefController",
+    "Method": "Create",
+    "RelativePath": "api/Tarief",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "tarief",
+        "Type": "ComponentHotelCL.Tarief",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.TariefController",
+    "Method": "GetById",
+    "RelativePath": "api/Tarief/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.TariefController",
+    "Method": "Update",
+    "RelativePath": "api/Tarief/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "tarief",
+        "Type": "ComponentHotelCL.Tarief",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.TariefController",
+    "Method": "Delete",
+    "RelativePath": "api/Tarief/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ComponentHotelAPI.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[ComponentHotelAPI.WeatherForecast, ComponentHotelAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

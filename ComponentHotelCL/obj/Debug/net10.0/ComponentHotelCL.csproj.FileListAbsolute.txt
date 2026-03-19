@@ -1,0 +1,24 @@
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar 2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\bin\Debug\net10.0\ComponentHotelCL.deps.json
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar 2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\bin\Debug\net10.0\ComponentHotelCL.dll
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar 2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\bin\Debug\net10.0\ComponentHotelCL.pdb
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar 2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net10.0\ComponentHotelCL.csproj.AssemblyReference.cache
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar 2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net10.0\ComponentHotelCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar 2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net10.0\ComponentHotelCL.AssemblyInfoInputs.cache
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar 2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net10.0\ComponentHotelCL.AssemblyInfo.cs
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar 2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net10.0\ComponentHotelCL.csproj.CoreCompileInputs.cache
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar 2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net10.0\ComponentHotelCL.dll
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar 2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net10.0\refint\ComponentHotelCL.dll
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar 2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net10.0\ComponentHotelCL.pdb
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar 2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net10.0\ref\ComponentHotelCL.dll
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar_2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\bin\Debug\net10.0\ComponentHotelCL.deps.json
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar_2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\bin\Debug\net10.0\ComponentHotelCL.dll
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar_2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\bin\Debug\net10.0\ComponentHotelCL.pdb
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar_2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net10.0\ComponentHotelCL.csproj.AssemblyReference.cache
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar_2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net10.0\ComponentHotelCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar_2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net10.0\ComponentHotelCL.AssemblyInfoInputs.cache
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar_2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net10.0\ComponentHotelCL.AssemblyInfo.cs
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar_2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net10.0\ComponentHotelCL.csproj.CoreCompileInputs.cache
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar_2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net10.0\ComponentHotelCL.dll
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar_2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net10.0\refint\ComponentHotelCL.dll
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar_2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net10.0\ComponentHotelCL.pdb
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar_2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net10.0\ref\ComponentHotelCL.dll

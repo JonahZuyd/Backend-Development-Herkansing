@@ -1,0 +1,5 @@
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar 2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net9.0\ComponentHotelCL.csproj.AssemblyReference.cache
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar 2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net9.0\ComponentHotelCL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar 2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net9.0\ComponentHotelCL.AssemblyInfoInputs.cache
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar 2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net9.0\ComponentHotelCL.AssemblyInfo.cs
+C:\Users\jonah\Documents\Zuyd\Schoolwerk\Leerjaar 2\Backend Development\Visual Studio\ComponentHotel\ComponentHotelCL\obj\Debug\net9.0\ComponentHotelCL.csproj.CoreCompileInputs.cache
